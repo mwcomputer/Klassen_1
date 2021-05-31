@@ -3,7 +3,7 @@ public class App {
     public static void main(String[] args) {
 
 
-Object cat = new Cat();
+    new Cat();
 
 
 
