@@ -3,11 +3,11 @@ public class App {
     public static void main(String[] args) {
 
 
-    new Cat();
+   Cat cat = new Cat();
 
 
 
-        System.out.println("toDo");
+        System.out.println(cat);
 
 
 
